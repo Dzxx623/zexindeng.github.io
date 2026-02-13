@@ -69,18 +69,19 @@ portrait_caption: >-
   Serve the cat, rule the world.
 
 education:
-- name: Texas A&M University
-  logo: /assets/images/badges/Texas_A&M_University_seal.svg
-  position: Ph.D. in Geographic Information Systems
-  date: Aug. 2025 - Present
-- name: University of Southern California
-  logo: /assets/images/badges/usc.png
-  position: M.S. in Spatial Data Science
-  date: Aug. 2023 - May. 2025
-- name: Nanjing Audit University
-  logo: /assets/images/badges/NAU.png
-  position: B.A. in Economics, Finance
-  date: Sep. 2018 - Jul. 2022
+- name: University of Warwick
+  logo: /assets/images/badges/warwick.png
+  position: Ph.D. in Communication Engineering
+  date: Apr. 2025 - Present
+- name: University of Warwick
+  logo: /assets/images/badges/warwick.png
+  position: M.Sc. in Communication and Information Engineering
+  date: Sep. 2023 - Sep. 2024
+- name: North University of China
+  logo: /assets/images/badges/nuc.png
+  position: B.Eng. in Electronic Information Engineering
+  date: Sep. 2018 - Jun. 2022
+
 
 experience:
 - name: The Hong Kong University of Science and Technology (Guangzhou)
