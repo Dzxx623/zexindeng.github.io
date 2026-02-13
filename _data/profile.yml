@@ -69,12 +69,14 @@ education:
   date: Apr. 2025 - Present
 - name: University of Warwick
   logo: /assets/images/badges/warwick.png
-  position: "M.Sc. in Communication and Information Engineering (Grade: 73/100, Distinction)"
+  position: "M.Sc. in Communication and Information Engineering (73/100, Distinction)"
   date: Sep. 2023 - Sep. 2024
+
 - name: North University of China
   logo: /assets/images/badges/nuc.png
-  position: "B.Eng. in Electronic Information Engineering (Grade: 88.26/100, Top 3%)"
+  position: "B.Eng. in Electronic Information Engineering (88.26/100, Top 3%)"
   date: Sep. 2018 - Jun. 2022
+
 
 
 
