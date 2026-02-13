@@ -29,6 +29,9 @@ short_bio: >-
     <a href="https://warwick.ac.uk/" target="_blank">the University of Warwick</a>,
     advised by Dr. <a href="http://www.zhenhuiyuan.net/" target="_blank">Zhenhui Yuan</a>
     and Dr. <a href="https://subhashlakshminarayana.myportfolio.com/home-1" target="_blank">Subhash Lakshminarayana</a>.
+    I am affiliated with the <strong>Connected and Collaborative Robotics Lab (CCR Lab)</strong> and the broader
+    <a href="https://warwick.ac.uk/fac/sci/eng/research/grouplist/connectedsystems/" target="_blank"><strong>Connected Systems Group</strong></a>
+    at the University of Warwick.
     My research aims to make teleoperation systems more <strong>robust, adaptive, and measurable</strong> by tightly coupling
     communication, perception, and control.
   </p>
