@@ -71,14 +71,15 @@ education:
   - name: University of Warwick
     logo: /assets/images/badges/warwick.png
     position: M.Sc. in Communication and Information Engineering
-    details: "Score: **73/100 (Distinction)**"
+    details: "Score: 73/100 (Distinction)"
     date: Sep. 2023 - Sep. 2024
 
   - name: North University of China
     logo: /assets/images/badges/nuc.png
     position: B.Eng. in Electronic Information Engineering
-    details: "Score: **88.26/100** (Top 3%)"
+    details: "Score: 88.26/100 (Top 3%)"
     date: Sep. 2018 - Jun. 2022
+
 
 
 
